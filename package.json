@@ -1,0 +1,27 @@
+{
+  "name": "movie-trailer",
+  "version": "1.0.0",
+  "description": "movie trailer",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchenyue/movie-trailer.git"
+  },
+  "keywords": [
+    "movie",
+    "trailer"
+  ],
+  "author": "zhangchenyue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangchenyue/movie-trailer/issues"
+  },
+  "homepage": "https://github.com/zhangchenyue/movie-trailer#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
